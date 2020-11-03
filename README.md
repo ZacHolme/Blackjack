@@ -8,7 +8,7 @@ All of the classes are found in the repository and the game runs off the console
 # Setting up the game
 
 
-You should see a Executable.bat file in this folder. 
+You should see a Executable.bat file in the repository. 
 
 Right click and edit either in notepad or notepad++.
 
