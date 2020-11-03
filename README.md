@@ -8,6 +8,10 @@ All of the classes are found in the repository and the game runs off the console
 # Setting up the game
 
 
+You should see a Executable.bat file in this folder. 
+
+Right click and edit either in notepad or notepad++.
+
 After that locate where your java is. Normally its in program files in your local disk C:. Once you've found the java file locate the bin file and get the directory for that. You should see 'set path' in the Executable.bat file replace the directory with yours! after the '=' sign.
 
 Once you've done that replace the next directory with where you have the Blackjack folder located (THE FOLDER MUST BE EXTRACTED CANNOT BE DONE IN RAR FILE)
